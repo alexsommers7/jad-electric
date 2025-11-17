@@ -1,8 +1,6 @@
-# J.A. Dancik Electric
+# JAD Electric
 
-Local, small business website created for an electrician based in Gilbert, AZ. Built with pure HTML, CSS/SCSS, and Javascript. Hosting and form data handled by Netlify.
-
-🔗 **[https://ja-dancik-electric.netlify.app/](https://ja-dancik-electric.netlify.app/)**
+Local, small business website created for a since-closed business. Built with pure HTML, CSS/SCSS, and Javascript. Hosting and form data handled by Netlify.
 
 ## Project setup
 
